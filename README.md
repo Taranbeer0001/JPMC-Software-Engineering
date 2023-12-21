@@ -1,2 +1,18 @@
-# JPMC-Software-Engineering
-JPMC Software Engineering Certification on Forage
+# Forage: JP Morgan Chase Software Engineering Virtual Experience 
+
+# Certifcate of Completion
+
+![image](https://github.com/Taranbeer0001/JPMC-Software-Engineering/assets/121135195/0cb88b46-4588-442a-8133-ee939e01d520)
+
+# Overview
+
+This Virtual Experience consists of 3 tasks.
+
+Task 1: Interface with a stock price data feed
+Task 2: Use JPMorgan Chase frameworks and tools
+Task 3: Display data visually for traders
+Projects were edited using several tools, including Python, Javascript, Typescript, React, HTML, git, NodeJS, nvm, and Perspective (JP Morgan's open-source data visualization tool)
+
+#Reference
+
+https://www.theforage.com/simulations/jpmorgan/software-engineering-btjx?ref=6afoFnBXduZLXmtvb
